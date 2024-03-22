@@ -1,3 +1,4 @@
+## NoSQL Challenge
 In this project, ratings data from a food magazine were analyzed to assist journalists and food critics in determining where to focus future articles. The analysis involved setting up a NoSQL database, updating the database with new information, and performing exploratory data analysis to answer specific questions. The project was conducted through the following specifications:
 
 ## Specifications
